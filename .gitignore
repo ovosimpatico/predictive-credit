@@ -1,0 +1,5 @@
+data/
+*.csv
+relatorio_projeto.md
+.conda/
+.env
