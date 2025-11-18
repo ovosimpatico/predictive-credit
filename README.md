@@ -3,6 +3,7 @@
 Dataset: https://www.kaggle.com/datasets/wordsforthewise/lending-club
 
 Documentação: [Documentação](docs/documentacao.pdf)
+Documentação N2: [Documentação N2](docs/documentacao_n2.pdf)
 
 ## Como executar o notebook
 
